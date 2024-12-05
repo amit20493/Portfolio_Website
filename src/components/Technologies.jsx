@@ -11,7 +11,7 @@ import { motion} from "framer-motion";
 const  iconvariants = (duration) => ({
   initial: { y: -10},
   animate: {
-    y: [10, -10],
+    y: [20, -20],
     transition:{
     duration: duration,
     ease :"linear",
@@ -70,7 +70,7 @@ const Technologies = () => {
              <FaNodeJs className='text-7xl text-green-500' />
             </motion.div>
             <motion.div 
-             variants={iconvariants(5)}
+             variants={iconvariants(5.5)}
              initial="initial"
              animate="animate"
             

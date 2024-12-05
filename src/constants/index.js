@@ -5,9 +5,9 @@ import project4 from "../assets/project4.png";
 
 
 
-export const line = `Weaving Dreams with Code, Passion in ML & NLP, Seeking Horizons as a Full-Time Software Engineer.`;
+export const line = `Weaving Dreams with Code, Playing with Machine learning algorithms and crafting innovation with Machine learning. Traning myself and growing in the field. Happy 😊 to connect for future😉 opportunities.`;
 
-export const About_Me = `Hi there! I'm a passionate Full Stack Developer with a deep interest in Machine Learning, NLP, and Information Retrieval. I graduated from IIIT Delhi in June 2024 with a degree in Computer Science. My skills span Python, Java, R, HTML/CSS, JavaScript, SQL, ReactJS, and Bootstrap. I've developed a Disease Prediction System, a Cross-Lingual IR System, and real-time web servers for microbiome diagnostics.
+export const About_Me = `Hi there! I'm a currently working as a Machine Learning Engineer and having a passion in different areas like  NLP, and Information Retrieval. I graduated from IIIT Delhi in June 2024 with a degree in Computer Science. My skills span Python, Java, R, HTML/CSS, JavaScript, SQL, ReactJS, and Bootstrap. I've developed a Disease Prediction System, a Cross-Lingual IR System, and real-time web servers for microbiome diagnostics.
 
 I've worked independently and at the Microbiome Informatics Lab, creating widely used web servers. I thrive in agile environments and am excited about new technologies like LLMs and Generative AI. I'm exploring roles focused on innovation, customer solutioning, and product reliability.
 
@@ -17,6 +17,15 @@ Feel free to reach out if you'd like to collaborate. Let's create something amaz
 `;
 
 export const Experiences = [
+  
+  {
+
+    year : "Dec,24 - present ",
+    role : "Machine Learning Engineer",
+    description : " Working in data engineer  team to extract data using SQL queries from Microsoft Azure databases , to  build   machine learning pipeline ",
+    technologies: ["Python","Machine learning","mySQL"],
+  },
+  
   {
     year: "Feb,23 - May,24",
     role: "Full Stack Developer",
